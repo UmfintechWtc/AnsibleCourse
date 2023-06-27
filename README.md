@@ -1,1 +1,1 @@
-# AnsibleCursor
+# Ansible's Best Practices
